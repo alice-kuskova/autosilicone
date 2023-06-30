@@ -1,0 +1,221 @@
+- category:
+  name: "ВАЗ радиатор"
+  image: ""
+  goods:
+    - title: "РК патрубков радиатора ВАЗ 2101-2107, медный радиатор (к-т 4 шт)"
+      description: ""
+      image: "vaz-radiator/073i.jpg"
+      price: 720
+      currency: "руб"
+    - title: "РК патрубков радиатора ВАЗ 2105, алюминиевый радиатор (к-т 4 шт)"
+      description: "S"
+      image: "vaz-radiator/073i.jpg"
+      price: 720
+      currency: "руб"
+    - title: "РК патрубков радиатора ВАЗ 21073 (к-т 4 шт)"
+      description: ""
+      image: "vaz-radiator/073i.jpg"
+      price: 840
+      currency: "руб"
+    - title: "РК патрубков радиатора ВАЗ 2108-099 (к-т 4 шт)"
+      description: ""
+      image: "vaz-radiator/08-99.jpg"
+      price: 540
+      currency: "руб"
+    - title: "РК патрубков радиатора ВАЗ 21082, инжектор (к-т 4 шт)"
+      description: ""
+      image: "vaz-radiator/082i.jpg"
+      price: 612
+      currency: "руб"
+    - title: "РК патрубков радиатора ВАЗ 2110-2111 (к-т 4 шт)"
+      description: ""
+      image: "vaz-radiator/211016kl11-2.jpg"
+      price: 792
+      currency: "руб"
+    - title: "РК патрубков радиатора ВАЗ 2112 (к-т 4 шт.)"
+      description: ""
+      image: "vaz-radiator/2112.jpg"
+      price: 840
+      currency: "руб"
+    - title: "РК патрубков радиатора ВАЗ 2170 Приора (к-т 2 шт)"
+      description: ""
+      image: "vaz-radiator/priora-2sht.jpg"
+      price: 780
+      currency: "руб"
+    - title: "РК патрубков радиатора ВАЗ 2170 Приора (к-т 3 шт)"
+      description: ""
+      image: "vaz-radiator/priora-3sht.jpg"
+      price: 924
+      currency: "руб"
+    - title: "РК патрубков радиатора ВАЗ 2170 Приора (к-т 4 шт)"
+      description: ""
+      image: "vaz-radiator/priora-4sht-1.jpg"
+      price: 1068
+      currency: "руб"
+    - title: "РК патрубков радиатора НИВА 2121 (к-т 4 шт)"
+      description: ""
+      image: "vaz-radiator/2121.jpg"
+      price: 768
+      currency: "руб"
+    - title: "РК патрубков радиатора НИВА 21213-21214 (к-т 4 шт)"
+      description: ""
+      image: "vaz-radiator/21213-4-sht.jpg"
+      price: 768
+      currency: "руб"
+    - title: "РК патрубков радиатора Шеви Нива 2123 (к-т 2 шт)"
+      description: ""
+      image: "vaz-radiator/2123-ispravleno.jpg"
+      price: 492
+      currency: "руб"
+- category:
+  name: "ГАЗ радиатор"
+  image: ""
+  goods:
+    - title: "РК патрубков радиатора ГАЗ 3110 дв. 402 ЕВРО 3 (к-т 5 шт)"
+      description: ""
+      image: "gaz-radiator/19-1.jpg"
+      price: 780
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗ 3110 дв. 406. (к-т 5 шт)"
+      description: ""
+      image: "gaz-radiator/19-5.jpg"
+      price: 744
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗ 31105 дв. Chrysler (к-т 3 шт)"
+      description: ""
+      image: "gaz-radiator/7-2.jpg"
+      price: 1140
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗ 3302 – Chrysler (к-т 4 шт)"
+      description: ""
+      image: "gaz-radiator/18-1.jpg"
+      price: 792
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗ 3302 двигатель 405 змз (к-т 5 шт)"
+      description: ""
+      image: "gaz-radiator/1-1.jpg"
+      price: 744
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗ 3307 (Газ 53) (к-т 2 шт)"
+      description: ""
+      image: "gaz-radiator/22.jpg"
+      price: 900
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗ 3309. 3308. (к-т 2 шт)"
+      description: ""
+      image: "gaz-radiator/13-1.jpg"
+      price: 720
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗ Валдай дв Cummins. (к-т 2 шт)"
+      description: ""
+      image: "gaz-radiator/17-1.jpg"
+      price: 780
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗель 3302 «Бизнес» дв. УМЗ 4213, 4216 (107 л.с.) (к-т 5 шт)"
+      description: ""
+      image: "gaz-radiator/10-1.jpg"
+      price: 780
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗель 3302 дв. 402 (к-т 5 шт)"
+      description: ""
+      image: "gaz-radiator/11-1.jpg"
+      price: 786
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗель 3302 дв. Cummins до 2012 г.в. (к-т 2 шт)"
+      description: ""
+      image: "gaz-radiator/8-1.jpg"
+      price: 540
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗель 3302 дв. Cummins после 2012 г.в. (к-т 2 шт)"
+      description: ""
+      image: "gaz-radiator/6-2.jpg"
+      price: 540
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗель NEXT (к-т 2 шт)"
+      description: ""
+      image: "gaz-radiator/16-1.jpg"
+      price: 720
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗель NEXT дв. УМЗ-Evo Tech-274 (к-т 2 шт)"
+      description: ""
+      image: "gaz-radiator/15-1.jpg"
+      price: 756
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗель Бизнес дв. УМЗ-4216 (100 л/с) (к-т 3 шт)"
+      description: ""
+      image: "gaz-radiator/7-2.jpg"
+      price: 660
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗель Бизнес дв. УМЗ-4216 ЕВРО 4 (к-т 2 шт)"
+      description: ""
+      image: "gaz-radiator/9-1.jpg"
+      price: 720
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗель дв. 405 ЕВРО 2 (к-т 5 шт)"
+      description: ""
+      image: "gaz-radiator/4-1.jpg"
+      price: 720
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗель дв. 405 ЕВРО 3 (к-т 5 шт)"
+      description: ""
+      image: "gaz-radiator/5-2.jpg"
+      price: 720
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗель дв. 406 ЕВРО 2,3 (к-т 4 шт)"
+      description: ""
+      image: "gaz-radiator/2-2.jpg"
+      price: 744
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗель дв. ЗМЗ-406 (к-т 5 шт)"
+      description: ""
+      image: "gaz-radiator/3-2.jpg"
+      price: 720
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗон NEXT дв Cummins (к-т 2 шт)"
+      description: ""
+      image: "gaz-radiator/8-1.jpg"
+      price: 840
+      currency: "руб"
+    - title: "РК патрубков радиатора ГАЗон NEXT дв ЯМЗ Евро-4 (к-т 2 шт)"
+      description: ""
+      image: "gaz-radiator/14-1.jpg"
+      price: 744
+      currency: "руб"
+- category:
+  name: "ГАЗ печка"
+  goods:
+    - title: "Патрубки печки ГАЗ-3302 «Бизнес» дв. Cummins (к-т 5 шт)"
+      description: ""
+      image: "gaz-pechka/3-1.jpg"
+      price: ---
+      currency: "руб"
+    - title: "Патрубки печки ГАЗ-3302 «Бизнес» дв. УМЗ (отвод, подвод) (к-т 2 шт)"
+      description: ""
+      image: "gaz-pechka/1-1.jpg"
+      price: 444
+      currency: "руб"
+    - title: "Патрубки печки ГАЗель 3302 дв. УМЗ 42164 ЕВРО-4 (Белава 124) (к-т 5 шт)"
+      description: ""
+      image: "gaz-pechka/2-1.jpg"
+      price: 636
+      currency: "руб"
+    - title: "Патрубки печки ГАЗель 3302 ЕВРО-3 бортовая (к-т 10 шт)"
+      description: ""
+      image: "gaz-pechka/6-1.jpg"
+      price: 1470
+      currency: "руб"
+    - title: "Патрубки печки ГАЗель NEXT дв. Cummins/EvoTech (к-т 6 шт)"
+      description: ""
+      image: "gaz-pechka/7-1.jpg"
+      price: 1032
+      currency: "руб"
+    - title: "Патрубки печки Газель дв. 406 (к-т 4 шт)"
+      description: ""
+      image: "gaz-pechka/8-1.jpg"
+      price: 480
+      currency: "руб"
+    - title: "Патрубки печки ГАЗель-Бизнес 33022 дв. УМЗ 4216 (к-т 5 шт)"
+      description: ""
+      image: "gaz-pechka/2-1.jpg"
+      price: 444
+      currency: "руб"
