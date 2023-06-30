@@ -11,7 +11,8 @@ fetch(GOODS_PATH)
 .then(yamlData => {
   allData = jsyaml.load(yamlData);
   showCatalog();
-  processUrl();
+    processUrl();
+    activateModalCLoseAction()
 });
 
 // Catch browser movements by history
