@@ -14,15 +14,12 @@ fetch(GOODS_PATH)
   processUrl();
 });
 
-// Catch browser movements by hystory
+// Catch browser movements by history
 window.addEventListener('popstate', function (event) {
   selectedGood = null;
   const myModal = new bootstrap.Modal('#detailModal');
-  if (myModal) {
-    myModal.hide();
-  }
-  processUrl();
   
+  processUrl();
 });
 
 function processUrl() {
@@ -32,17 +29,17 @@ function processUrl() {
       const good = getGoodByTitle(decodeURIComponent(id));
       if (good) {
         showDetailForm(good);
+        activateModalCLoseAction()
       }
       else {
         scrollToElementId(id);
       }
     }
   };
-  activateModalCLoseAction()
 }
 
 function setUrlWithoutReload(path) {
-  history.pushState(null, "", path);
+  history.replaceState(null, "", path);
 }
 
 // If #details/{good.title} is in Url, open modal with details
@@ -74,23 +71,6 @@ function scrollToElementId(id) {
       place.scrollIntoView({behavior: "instant"});
     }}, 100);
 }
-
-function getGoodByTitle () {
-  const url = window.location.href;
-  const regex = /l#([^&]+)/;
-  const match = url.match(regex);
-  if (match) {
-    const encodedTitle = match[1];
-  
-    const title = decodeURIComponent(encodedTitle);
-
-    const good = getGoodByTitle(title);
-
-    return good;
-  }
-
-  return null;
-};
 
 function getIdFromUrl() {
   const url = window.location.href;
@@ -135,11 +115,10 @@ function getGoodByTitle(goodTitle) {
 
 // Connect modal
 function activateModalCLoseAction() {
-  const detailModal = document.getElementById('detailModal')
+  const detailModal = document.getElementById('detailModal');
   if (detailModal) {
-    
     detailModal.addEventListener('hide.bs.modal', event => {
-      setUrlWithoutReload("index.html?scrollTo="+encodeURIComponent(selectedGood.title));
+      setUrlWithoutReload("index.html");
     })
   }
 }
@@ -251,7 +230,7 @@ function showDetailPage(good)
 
 function showDetailModal(goodId)
 {
-  const good = getGoodByTitle(goodId, allData);
+  const good = getGoodByTitle(goodId);
   selectedGood = good;
   showDetailPage(good);
   setUrlWithoutReload("index.html#"+ encodeURIComponent(good.title))
